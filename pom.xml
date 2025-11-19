@@ -31,7 +31,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>math_series_calculator</mainClass>
+                            <mainClass>MathSeriesCalculator</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

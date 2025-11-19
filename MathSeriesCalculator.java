@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class math_series_calculator {
+public class MathSeriesCalculator {
 	// Determines the math series the user will use.
 	public static int seriesSelect() {
 		int seriesSelection = 0;
